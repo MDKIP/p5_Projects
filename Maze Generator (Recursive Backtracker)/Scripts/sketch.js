@@ -1,5 +1,5 @@
-var canvasSize = 500;
-var cellsInLine = 20;
+var canvasSize = 750;
+var cellsInLine = 30;
 var cellSize;
 var cells = new Array();
 var currentCell;
